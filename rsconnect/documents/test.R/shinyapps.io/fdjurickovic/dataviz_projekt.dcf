@@ -1,0 +1,14 @@
+name: dataviz_projekt
+title: dataviz_projekt
+username:
+account: fdjurickovic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4268928
+bundleId: 4723662
+url: https://fdjurickovic.shinyapps.io/dataviz_projekt/
+when: 1623857445.82524
+lastSyncTime: 1623857445.82524
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|d3script.js
